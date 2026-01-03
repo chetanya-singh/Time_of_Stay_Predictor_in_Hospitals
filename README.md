@@ -3,3 +3,7 @@ This repository contains a generated data and an attempt to predict number of da
 
 
 The file named healthbeds.py and healthbeds.ipynb contain the codes in the form of python files as well as notebook , the dataset as named healthdataset.csv .
+The python libraries used as follows
+1)Scikit Learn for Machine Learning algorithms
+2)Matplotlib for plots and gaphs 
+3)Pandas for reading and editing data 
